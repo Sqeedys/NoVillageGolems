@@ -1,3 +1,3 @@
 # Project artwork
 
-Sqeedys selected the original red-slash badge for this project. The public badge was created with ImageGen using independently drawn block shapes. It contains no extracted Minecraft models, textures or official logos.
+The listing artwork depicts Minecraft game assets by Mojang and Microsoft. The project's MIT license covers the mod code. This is an unofficial Minecraft mod.
