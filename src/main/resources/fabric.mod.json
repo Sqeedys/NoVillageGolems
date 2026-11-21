@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "no_village_golems",
+  "version": "1.0.0",
+  "name": "No Village Golems",
+  "description": "Prevents iron golems summoned by villager behavior.",
+  "authors": ["Sqeedys"],
+  "contact": {
+    "homepage": "https://sqeedys.com/mods",
+    "sources": "https://github.com/Sqeedys/NoVillageGolems",
+    "issues": "https://github.com/Sqeedys/NoVillageGolems/issues"
+  },
+  "license": "MIT",
+  "environment": "server",
+  "mixins": [
+    "no_village_golems.mixins.json"
+  ],
+  "depends": {
+    "minecraft": "=26.3",
+    "fabricloader": ">=0.20.1",
+    "java": ">=25"
+  }
+}

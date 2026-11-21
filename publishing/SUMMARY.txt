@@ -1,0 +1,1 @@
+Stop villagers from summoning iron golems through panic or gossip. Players can still build their own golems.
